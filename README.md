@@ -1,7 +1,3 @@
-Here’s a concise README file for your GitHub repository that highlights the Customer Churn case study from your Excel Skill Track:
-
----
-
 # 📊 Customer Churn Analysis Case Study
 
 This repository showcases my work from the **Customer Churn Analysis Case Study** completed as part of DataCamp's Excel Fundamentals Skill Track. The goal was to analyze customer churn trends and identify key factors contributing to customer retention and loss.
